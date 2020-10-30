@@ -11,4 +11,4 @@ pip install scrypt
 [Video](https://youtu.be/mZpPWhRCvYM)
 
 ### Demo Scrypt
-[Video](https://youtu.be/CgD0-Rxrcn4)
+[Video](https://youtu.be/97JUdfUqbjY)
